@@ -3,9 +3,9 @@
 }
 
 .custom-modal {
-  border: 1spx solid #000;
+  border: 1px solid #000;
   border-radius: 5px;
-  padding: 20px;
+  padding: 30px;
   width: 20%;
   height: 60%;
   position: absolute;
